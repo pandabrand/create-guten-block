@@ -65,6 +65,7 @@ const extractConfig = {
 		{
 			loader: 'sass-loader',
 			options: {
+				implementation: require('sass'),
 				// Add common CSS file for variables and mixins.
 				data: '@import "./src/common.scss";\n',
 				outputStyle: 'compressed',

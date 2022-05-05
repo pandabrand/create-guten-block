@@ -8,6 +8,7 @@
 		"url": "git+https://github.com/ahmadawais/create-guten-block.git"
 	},
 	"version": "1.14.1",
+	"name": "create-guten-block",
 	"author": "AhmadAwais",
 	"bugs": {
 		"url": "https://github.com/ahmadawais/create-guten-block/issues"
